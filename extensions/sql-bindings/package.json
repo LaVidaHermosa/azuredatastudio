@@ -65,7 +65,7 @@
   "dependencies": {
     "@microsoft/ads-extension-telemetry": "^3.0.1",
     "@microsoft/vscode-azext-utils": "^0.1.1",
-    "fast-glob": "^3.2.7",
+    "fast-glob": "^3.3.3",
     "promisify-child-process": "^3.1.1",
     "uuid": "^8.3.2",
     "vscode-nls": "^4.1.2",
